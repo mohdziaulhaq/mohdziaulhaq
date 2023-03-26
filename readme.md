@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, how are you? <br>I am a Software Engineer with a passion for Web development and DevOps
+Hi, how are you? I am a Software Engineer with a passion for Web development and DevOps
 
 
 ## 🌐 Socials:
