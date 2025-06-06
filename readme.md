@@ -1,10 +1,33 @@
 **Hi there** 👋
 
-My name is Zia. I am a Computer Science Grad at University of Central Missouri. I am passionate about technology and enjoy web development. I probably spend my leisure time doing some physical activities or building/exploring software programs.
+## 👋 Hi, I'm Zia. A passionate software engineer who loves building scalable web applications and solving real-world problems with code.I have professional experience working with enterprise-grade systems, RESTful APIs, cloud platforms, and CI/CD pipelines.
 
 **Tech Enthusiast & Full Stack Engineer**  
 *(Ex-Software Engineer @ Capgemini)*  
-Currently: CS Student @ University of Central Missouri
+Currently: MS in Computer Science @ University of Central Missouri
+
+### 🛠️ Tech Stack
+- **Languages & Frameworks:** Java, JavaScript, Spring Boot, React, JUnit
+- **Databases:** PostgreSQL, MongoDB
+- **DevOps & Tools:** Docker, Jenkins, AWS, Git, GitHub Actions
+- **Styling & UI:** Tailwind CSS, HTML/CSS
+
+### 💼 Experience Highlights
+- Worked as a **Software Engineer at Capgemini**, contributing to backend services and automation pipelines for large-scale client systems.
+- Implemented RESTful APIs, integrated databases, and collaborated in Agile teams across full software development lifecycles.
+
+### 🚀 What I'm Working On
+- Exploring cloud-native architectures and scalable backend design
+- Building full stack side projects and open-source contributions
+- Pursuing advanced topics in distributed systems and DevOps
+
+### 🧠 Fun Fact
+When I'm not coding, I enjoy hiking, playing sports, and diving into new technologies just for fun.
+
+---
+
+Feel free to connect or check out my projects!
+
 
 
 
