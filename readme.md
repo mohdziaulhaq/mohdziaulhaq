@@ -2,9 +2,10 @@
 
 My name is Zia. I am a Computer Science Grad at University of Central Missouri. I am passionate about technology and enjoy web development. I probably spend my leisure time doing some physical activities or building/exploring software programs.
 
-Tech Enthusiast & Full Stack Engineer
-(Ex-Software Engineer @ Capgemini)
+**Tech Enthusiast & Full Stack Engineer**  
+*(Ex-Software Engineer @ Capgemini)*  
 Currently: CS Student @ University of Central Missouri
+
 
 
 ## 🌐 Socials:
