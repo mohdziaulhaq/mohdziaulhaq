@@ -1,6 +1,6 @@
 **Hi there** 👋
 
-## 👋 Hi, I'm Zia. A passionate software engineer who loves building scalable web applications and solving real-world problems with code.I have professional experience working with enterprise-grade systems, RESTful APIs, cloud platforms, and CI/CD pipelines.
+👋 Hi, I'm Zia. A passionate software engineer who loves building scalable web applications and solving real-world problems with code.I have professional experience working with enterprise-grade systems, RESTful APIs, cloud platforms, and CI/CD pipelines.
 
 **Tech Enthusiast & Full Stack Engineer**  
 *(Ex-Software Engineer @ Capgemini)*  
